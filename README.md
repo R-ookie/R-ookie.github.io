@@ -1,6 +1,6 @@
 # 声音转换 ——柯南的变声器
 <br><br>
-<img src="/home/zhangtao/vc/show/R-ookie.github.io/data/柯南.jfif"  height="360" width="495">
+<img src="/home/zhangtao/vc/show/R-ookie.github.io/data/kenan.jfif"  height="360" width="495">
 <br><br>
 
 [1]: /home/zhangtao/vc/show/R-ookie.github.io/data/aixiang.wav
@@ -20,11 +20,11 @@
 
 <br><br>
 
-[1]:/home/zhangtao/vc/show/R-ookie.github.io/data/aixiang.wav
-[2]:/home/zhangtao/vc/show/R-ookie.github.io/data/female.wav
-[3]:/home/zhangtao/vc/show/R-ookie.github.io/data/LJS.wav
-[4]:/home/zhangtao/vc/show/R-ookie.github.io/data/german.wav
-[5]:/home/zhangtao/vc/show/R-ookie.github.io/data/1.wav
+[1]: /home/zhangtao/vc/show/R-ookie.github.io/data/aixiang.wav
+[2]: /home/zhangtao/vc/show/R-ookie.github.io/data/female.wav
+[3]: /home/zhangtao/vc/show/R-ookie.github.io/data/LJS.wav
+[4]: /home/zhangtao/vc/show/R-ookie.github.io/data/german.wav
+[5]: /home/zhangtao/vc/show/R-ookie.github.io/data/1.wav
 
 中文测试
 
