@@ -1,6 +1,6 @@
 # 声音转换 ——柯南的变声器
 <br><br>
-<img src="https://github.com/R-ookie/R-ookie.github.io/blob/main/data/kenan.jfif"  height="360" width="495">
+<img src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/kenan.jfif"  height="360" width="495">
 <br><br>
 
 
@@ -8,10 +8,10 @@
 
 |  |音频|
 -|:-:|
-中文男生|<audio src= [1] controls ></audio>|
-中文女生|<audio src= [2] controls ></audio>|
-英文女生|<audio src= [3] controls ></audio>|
-德语男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/blob/main/data/german.wav"> </audio>|
+中文男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/aixaing.wav"  controls > </audio>|
+中文女生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/female.wav"  controls > </audio>|
+英文女生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/ljs.wav"  controls > </audio>|
+德语男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/german.wav"  controls > </audio>|
 
 
 <br><br>
