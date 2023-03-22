@@ -8,4 +8,4 @@
 
 中文男生|中文女生|英文女生|德语男生
 -|:-:|:-:|-:|
-小明|<audio src='/home/zhangtao/vc/hifi_vc/Data/test/test(2).wav' type="audio/wav" controls ></audio>|
+小明|<audio src='./data/1.wav' type="audio/wav" controls ></audio>|
