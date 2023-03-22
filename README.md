@@ -15,7 +15,7 @@
 中文男生|<audio src= [1] controls ></audio>|
 中文女生|<audio src= [2] controls ></audio>|
 英文女生|<audio src= [3] controls ></audio>|
-德语男生|<audio src= 'https://github.com/R-ookie/R-ookie.github.io/tree/main/data/german.wav' controls ></audio>|
+德语男生|<audio src= 'https://github.com/R-ookie/R-ookie.github.io/blob/main/data/1.wav' controls ></audio>|
 
 
 <br><br>
