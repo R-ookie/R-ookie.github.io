@@ -87,6 +87,7 @@
 预训练加微调，大数据对模型进行训练让模型能够学习到音频合成的能力，并通过少量的数据对模型进行微调使模型在音色转换上也有不错的效果，我们从训练数据的三个不同音色音频数据中各抽取了三千条数据在预训练模型上进行微调，效果如下，
 <br><br>
 中文
+
 |  |name|
 -|:-:|
 原始音频|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/few/chinese/target.wav" controls ></audio>|
