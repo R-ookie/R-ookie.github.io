@@ -1,15 +1,16 @@
 # 声音转换 ——柯南的变声器
+<table><tr><td bgcolor=green>背景色yellow</td></tr></table>
+
 <br><br>
 <img src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/kenan.jfif"  height="360" width="495">
 <br><br>
 
 
-音色转换是将音频转换成不同音色的音频同时银色信息保持不变就像柯南的变声器一样。我们提出了any2many的音色转换算法既可以将任意人的声音转换成固定的几种音色，同时可以支持多语言的音色转换。模型训练的数据我们选择了中文，英语和德语。音频样本如下：
+音色转换是将音频转换成不同音色的音频同时音色信息保持不变就像柯南的变声器一样。我们提出了any2many的音色转换算法既可以将任意人的声音转换成固定的几种音色，同时可以支持多语言的音色转换。模型训练的数据我们选择了中文，英语和德语。音频样本如下：
 
 |  |音频|
 -|:-:|
-中文男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/aixaing.wav"  controls > </audio>|
-中文女生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/female.wav"  controls > </audio>|
+中文男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/aixiang.wav"  controls > </audio>|
 英文女生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/ljs.wav"  controls > </audio>|
 德语男生|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/target/german.wav"  controls > </audio>|
 
@@ -23,7 +24,6 @@
 -|:-:|:-:|
 原始音频|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
 中文男生|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
-中文女生|<audio src=[2] controls ></audio>|<audio src=[1] controls ></audio>
 英文女生|<audio src=[3] controls ></audio>|<audio src=[1] controls ></audio>
 德语男生|<audio src=[5] controls ></audio>|<audio src=[1] controls ></audio>
 
@@ -35,7 +35,6 @@
 -|:-:|:-:|
 原始音频|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
 中文男生|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
-中文女生|<audio src=[2] controls ></audio>|<audio src=[1] controls ></audio>
 英文女生|<audio src=[3] controls ></audio>|<audio src=[1] controls ></audio>
 德语男生|<audio src=[4] controls ></audio>|<audio src=[1] controls ></audio>
 
@@ -47,7 +46,6 @@
 -|:-:|:-:|
 原始音频|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
 中文男生|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
-中文女生|<audio src=[2] controls ></audio>|<audio src=[1] controls ></audio>
 英文女生|<audio src=[3] controls ></audio>|<audio src=[1] controls ></audio>
 德语男生|<audio src=[4] controls ></audio>|<audio src=[1] controls ></audio>
 
@@ -61,7 +59,6 @@
 -|:-:|:-:|
 原始音频|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
 中文男生|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
-中文女生|<audio src=[2] controls ></audio>|<audio src=[1] controls ></audio>
 英文女生|<audio src=[3] controls ></audio>|<audio src=[1] controls ></audio>
 德语男生|<audio src=[4] controls ></audio>|<audio src=[1] controls ></audio>
 
@@ -73,6 +70,5 @@
 -|:-:|:-:|
 原始音频|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
 中文男生|<audio src=[1] controls ></audio>|<audio src=[1] controls ></audio>
-中文女生|<audio src=[2] controls ></audio>|<audio src=[1] controls ></audio>
 英文女生|<audio src=[3] controls ></audio>|<audio src=[1] controls ></audio>
 德语男生|<audio src=[4] controls ></audio>|<audio src=[1] controls ></audio>
