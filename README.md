@@ -76,6 +76,7 @@
 
 <br><br>
 模型还有很强的去背景噪音的能力
+
 |  |name|
 -|:-:|
 原始音频|<audio src="https://github.com/R-ookie/R-ookie.github.io/raw/main/data/noise/target.wav" controls ></audio>|
